@@ -1,0 +1,62 @@
+[
+  {
+    "key": ["msc-sem1"],
+    "type": "file",
+    "value": ["data/syllabus/msc-syllabus.pdf"]
+  },
+  {
+    "key": ["msc-sem2"],
+    "type": "file",
+    "value": ["data/syllabus/msc-syllabus.pdf"]
+  },
+  {
+    "key": ["msc-sem3"],
+    "type": "file",
+    "value": ["data/syllabus/msc-syllabus.pdf"]
+  },
+  {
+    "key": ["msc-sem4"],
+    "type": "file",
+    "value": ["data/syllabus/msc-syllabus.pdf"]
+  },
+  {
+    "key": ["msc-sem5"],
+    "type": "file",
+    "value": ["data/syllabus/msc-syllabus.pdf"]
+  },
+  {
+    "key": ["msc-sem6"],
+    "type": "file",
+    "value": ["data/syllabus/msc-syllabus.pdf"]
+  },
+  {
+    "key": ["bsc-sem1"],
+    "type": "file",
+    "value": ["data/syllabus/JWC_B.Sc-IT-_Syllabus.pdf"]
+  },
+  {
+    "key": ["bsc-sem2"],
+    "type": "file",
+    "value": ["data/syllabus/JWC_B.Sc-IT-_Syllabus.pdf"]
+  },
+  {
+    "key": ["bsc-sem3"],
+    "type": "file",
+    "value": ["data/syllabus/JWC_B.Sc-IT-_Syllabus.pdf"]
+  },
+  {
+    "key": ["bsc-sem4"],
+    "type": "file",
+    "value": ["data/syllabus/JWC_B.Sc-IT-_Syllabus.pdf"]
+  },
+  {
+    "key": ["bsc-sem5"],
+    "type": "file",
+    "value": ["data/syllabus/JWC_B.Sc-IT-_Syllabus.pdf"]
+  },
+  {
+    "key": ["bsc-sem6"],
+    "type": "file",
+    "value": ["data/syllabus/JWC_B.Sc-IT-_Syllabus.pdf"]
+  }
+]
