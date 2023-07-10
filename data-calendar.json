@@ -1,0 +1,12 @@
+[
+  {
+    "key": ["calendar-2022"],
+    "type": "file",
+    "value": ["data/calendar/Academic_Calendar.pdf"]
+  },
+  {
+    "key": ["calendar-2023"],
+    "type": "file",
+    "value": ["data/calendar/Academic_Calendar.pdf"]
+  }
+]
