@@ -43,3 +43,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - This project was inspired by the need for an interactive chatbot on WhatsApp.
 - Special thanks to the Twilio API for enabling seamless integration with WhatsApp messaging.
 
+## Something missing? Make an issue and let me know!👀
+
