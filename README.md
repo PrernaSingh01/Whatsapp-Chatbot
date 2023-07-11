@@ -15,7 +15,8 @@ To use this chatbot, follow these steps:
 
 1. Clone the repository: git clone https://github.com/your-username/whatsapp-chatbot.git
 2. Navigate to the project directory: cd whatsapp-chatbot
-3. Install the dependencies: npm init, <br>
+3. Install the dependencies: <br>
+                             npm init, <br>
                              npm i whatsapp-web.js, <br>
                              npm i qrcode-terminal, <br>
                              node node_modules/puppeteer/install.js
