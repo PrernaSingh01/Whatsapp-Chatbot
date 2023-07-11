@@ -15,16 +15,16 @@ To use this chatbot, follow these steps:
 
 1. Clone the repository: git clone https://github.com/your-username/whatsapp-chatbot.git
 2. Navigate to the project directory: cd whatsapp-chatbot
-3. Install the dependencies: npm init,
-                             npm i whatsapp-web.js,
-                             npm i qrcode-terminal,
+3. Install the dependencies: npm init, <br>
+                             npm i whatsapp-web.js, <br>
+                             npm i qrcode-terminal, <br>
                              node node_modules/puppeteer/install.js
    
 5. Start the application: node index.js
-6. Scan the QR code:
-            Open the WhatsApp mobile app on your device.
-            Go to the "Chats" tab and tap on the three dots in the top-right corner.
-            Select "WhatsApp Web" and scan the QR code displayed in the terminal.
+6. Scan the QR code: <br>
+            Open the WhatsApp mobile app on your device. <br>
+            Go to the "Chats" tab and tap on the three dots in the top-right corner. <br>
+            Select "WhatsApp Web" and scan the QR code displayed in the terminal. <br>
 ## Usage
 
 Once the chatbot is up and running, you can interact with it by sending messages on WhatsApp. The chatbot will provide menu options and respond based on your selections. Follow the prompts and explore the different functionalities.
