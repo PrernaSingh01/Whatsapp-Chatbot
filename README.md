@@ -2,7 +2,7 @@
 
 This is a WhatsApp chatbot project developed using Node.js. The chatbot provides various functionalities to interact with users and provide information on different topics.
 
-![Screenshot of the Chatbot in Action](images/screenshot.png)
+![Screenshot of the Chatbot in Action](images/screenshot1.png)
 
 
 ## Features
